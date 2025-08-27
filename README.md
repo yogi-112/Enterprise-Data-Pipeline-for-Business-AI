@@ -1,4 +1,4 @@
-# AI Data Engineer Advanced Project (SAP-style Business AI)
+# Enterprise-Data-Pipeline-for-Business-AI
 
 End-to-end, production-style **AI Data Engineering** project focused on **structured enterprise data**:
 - **Synthetic business domains**: Customers, Products, Orders, Invoices, Tickets.
