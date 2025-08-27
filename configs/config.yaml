@@ -1,0 +1,19 @@
+seed: 1337
+n_customers: 3000
+n_products: 250
+n_orders: 12000
+n_invoices: 11000
+n_tickets: 4000
+
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  models: data/models
+  feature_db: data/feature_store.sqlite
+
+modeling:
+  pca_components: 8
+  isolation_forest:
+    contamination: 0.05
+    n_estimators: 150
